@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M0rtemD3spair
 - 👀 I’m interested in making Video games
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Blender
 - 💞️ I’m looking to collaborate on video games
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
